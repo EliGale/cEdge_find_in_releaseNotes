@@ -22,7 +22,7 @@ These are the current websites that this script will check
 Example: 
 
 ```
-Python % python3 test-hw-check.py
+Python % python3 find_in_releaseNotes.v0.1.py
 Enter the text to search for: NIM-ES2-4
 Searching in release Notes: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 12/12 [00:08<00:00,  1.41it/s]
 
