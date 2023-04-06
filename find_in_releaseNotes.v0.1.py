@@ -17,7 +17,10 @@ website_urls = [
     'https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/notes/xe-17-2/ios-xe-sd-wan-re-notes-17-2.html',
     'https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/notes/xe-16-12/ios-xe-sd-wan-re-notes-16-12.html',
     'https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/compatibility/sdwan-device-compatibility.html',
-    'https://www.cisco.com/c/en/us/products/routers/catalyst-8300-series-edge-platforms/interfaces-and-modules.html#serial-wan-interface',
+    'https://www.cisco.com/c/en/us/products/routers/catalyst-8300-series-edge-platforms/interfaces-and-modules.html',
+    'https://www.cisco.com/c/en/us/products/routers/catalyst-8200-series-edge-platforms/interfaces-and-modules.html',
+    'https://www.cisco.com/c/en/us/products/routers/catalyst-8200-series-edge-ucpe/interfaces-and-modules.html',
+    'https://www.cisco.com/c/en/us/products/routers/4000-series-integrated-services-routers-isr/relevant-interfaces-and-modules.html',
 ]
 
 # Define the text string to search for
