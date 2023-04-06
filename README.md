@@ -31,12 +31,14 @@ Run the script and you will be asked to prompt the word you are looking for and 
 Example: 
 
 ```
-Python % python3 find_in_releaseNotes.v0.1.py
-Enter the text to search for: NIM-ES2-4
-Searching in release Notes: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 12/12 [00:08<00:00,  1.41it/s]
+Enter the text to search for: NIM-2GE-CU-SFP
+Searching in release Notes: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [00:10<00:00,  1.46it/s]
 
-===== Here are the results ====.
-Found 'NIM-ES2-4' on line 1000 of https://www.cisco.com/c/en/us/products/routers/catalyst-8300-series-edge-platforms/interfaces-and-modules.html#serial-wan-interface
-===============================.
+
+
+===== Here are the results =====
+Found 'NIM-2GE-CU-SFP' on line 10621 of https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/notes/xe-17-3/sd-wan-rel-notes-xe-17-3.html
+Found 'NIM-2GE-CU-SFP' on line 1124 of https://www.cisco.com/c/en/us/products/routers/4000-series-integrated-services-routers-isr/relevant-interfaces-and-modules.html
+=====================================
 ```
 
