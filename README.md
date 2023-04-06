@@ -2,7 +2,6 @@
 This is a Python script that help you to verify across all the cEdge release notes and look for a specific word. 
 
 This is helpful to verify where a Module was initially supported.
-You will be asked to prompt the word you are looking for and it will show you in which link the introduced word was found: 
 
 These are the current websites that this script will check
 
@@ -18,6 +17,16 @@ These are the current websites that this script will check
     'https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/notes/xe-16-12/ios-xe-sd-wan-re-notes-16-12.html',
     'https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/compatibility/sdwan-device-compatibility.html',
     'https://www.cisco.com/c/en/us/products/routers/catalyst-8300-series-edge-platforms/interfaces-and-modules.html#serial-wan-interface',
+
+
+## Requirements
+You will need the python library tqdm. You can install it using the command
+```
+pip install tqdm
+```
+
+## How to Use this script. 
+Run the script and you will be asked to prompt the word you are looking for and it will show you in which url the word was found
 
 Example: 
 
